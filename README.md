@@ -12,7 +12,7 @@ Mitron Bank is a legacy financial institution headquartered in Hyderabad. They w
 
 
 # Power BI Report 
-![image](https://github.com/saishh8/CREDIT-CARD-LAUNCH-ANALYSIS/assets/60099055/fac62f50-2a2b-4140-a800-d072518e0ca3)
+![image](https://github.com/saishh8/CREDIT-CARD-LAUNCH-ANALYSIS/assets/60099055/a49e0616-d5e7-4946-9e30-d44d9894dcb3)
 
 ![image](https://github.com/saishh8/CREDIT-CARD-LAUNCH-ANALYSIS/assets/60099055/e961076f-4715-4e10-b0d0-09154e7869ac)
 
